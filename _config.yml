@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Emma McMullan"
+author: "Emma McMullan"
+description: "Georgia State University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:emmamcmulln257@gmail.com"}
+  - {title: Twitter, icon: twitter, url: "https://www.x.com/emmamc1234"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/emmamc1243/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
